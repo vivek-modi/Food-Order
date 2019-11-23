@@ -32,9 +32,9 @@ The main aim of this project is to deliver food from restaurant through this app
  &nbsp; PriceHelper.java
 
 
-# Functionalities Used
-  &nbsp; Interface\ 
+# Functionalities Used 
   &nbsp; Array-list\
+  &nbsp; Interface\
   &nbsp; Database\
   &nbsp; Customized Button, Frames.\
   &nbsp; Jtables\

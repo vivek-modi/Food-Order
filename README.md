@@ -7,27 +7,27 @@ The main aim of this project is to deliver food from restaurant through this app
 **Custom:**\
   &nbsp; RoundedButton.java
 
-**Data:**
-  \CheckInsertData.java\
-   RefinedData.java
+**Data:**\
+  &nbsp; CheckInsertData.java\
+  &nbsp; RefinedData.java
 
-**Database:**
- Dbconnector.java\
- InsertData.java
+**Database:**\
+ &nbsp; Dbconnector.java\
+ &nbsp; InsertData.java
 
-**Interface:**
- DataBaseInterface.java
+**Interface:**\
+ &nbsp; DataBaseInterface.java
 
-**MainClass:**
- BillScreen.java\
- Food_Order.java
- LoginScreen.java
- MainScreen.java
- SignUpScreen.java
+**MainClass:**\
+ &nbsp; BillScreen.java\
+ &nbsp; Food_Order.java\
+ &nbsp; LoginScreen.java\
+ &nbsp; MainScreen.java\
+ &nbsp; SignUpScreen.java\
 
-**Utils:**
- CheckBoxHelper.java
- DataHelper.java
- LoginData.java
- PriceHelper.java
+**Utils:**\
+ &nbsp; CheckBoxHelper.java\
+ &nbsp; DataHelper.java\
+ &nbsp; LoginData.java\
+ &nbsp; PriceHelper.java
 

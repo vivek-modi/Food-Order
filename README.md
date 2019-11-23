@@ -34,7 +34,7 @@ The main aim of this project is to deliver food from restaurant through this app
 
 # Functionalities Used
   &nbsp; Interface\
-	&nbsp; Single Inheritance\ 
+  &nbsp; Single Inheritance\ 
   &nbsp; Array-list\
   &nbsp; Database\
   &nbsp; Customized Button, Frames.\

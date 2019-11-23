@@ -40,4 +40,7 @@ The main aim of this project is to deliver food from restaurant through this app
   &nbsp; Jtables\
   &nbsp; Single Inheritance
 
+# Conclusion
+
+This system has been computed successfully. It is user friendly and consist of various options for the user. This system is a safe as well as a time saver for the user as he can choose among the preferences without going to a restaurant. I did faced some issues while making this system, but I resolved them after studying and learning about them on the internet. This system helped me in learning and clearing other concepts in java.
 

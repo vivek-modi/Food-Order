@@ -5,21 +5,21 @@ The main aim of this project is to deliver food from restaurant through this app
 
 ## Class
 **Custom:**
-RoundedButton.java
+RoundedButton.java\
 
 **Data:**
- CheckInsertData.java
+ CheckInsertData.java\
  RefinedData.java
 
 **Database:**
- Dbconnector.java
+ Dbconnector.java\
  InsertData.java
 
 **Interface:**
  DataBaseInterface.java
 
 **MainClass:**
- BillScreen.java
+ BillScreen.java\
  Food_Order.java
  LoginScreen.java
  MainScreen.java

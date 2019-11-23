@@ -32,7 +32,7 @@ The main aim of this project is to deliver food from restaurant through this app
  &nbsp; PriceHelper.java
 
 
-#Functionalities Used
+# Functionalities Used
   &nbsp; Interface\
 	&nbsp; Single Inheritance\ 
   &nbsp; Array-list\
